@@ -2,13 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
-## Problem
-1. The tests are blowing up. Fix the application so the tests can pass.
-3. The client wants see the titles and them to be "Exercise 1 - Homepage" on the homepage and to be on "Exercise 1 - About us" on the page you just fixed.
-Can be set anywhere, doesn't need to be tested.
-3. The toolbar seems to cut off information on about us page. It also should follow the content properly.
-4. The routes do not indicate which route is currently active route in the toolbar. Increase the font size by 0.25rem when it is active.
-4. The SPA seem to reload the application on route change. Investigate and fix the issue.
+## Problems
+- The tests are failing. Fix the application so the tests pass.
+- The client wants to see the titles set to "Exercise 1 - Homepage" on the homepage and "Exercise 1 - About Us" on the About Us page. This can be set anywhere and doesn't need to be tested.
+- The toolbar cuts off information on the About Us page. It should follow the content properly.
+- The routes do not indicate which route is currently active in the toolbar. Increase the font size by 0.25rem when a route is active.
+- The SPA seems to reload the application on route change. Investigate and fix the issue.
 
 ## Development server
 
