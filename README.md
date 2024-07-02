@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - The client wants to see the titles set to "Exercise 1 - Homepage" on the homepage and "Exercise 1 - About Us" on the About Us page. This can be set anywhere and doesn't need to be tested.
 - The toolbar cuts off information on the About Us page. It should follow the content properly. So when the user scrolls the content, the toolbar stays on top of the screen and above all the content.
 - The SPA seems to reload the application on route change. Investigate and fix the issue.
-- The routes do not indicate which route is currently active in the toolbar. Increase the font size by 0.25rem when a route is active.
+- The routes do not indicate which route is currently active in the toolbar. Increase the font size to 1.125rem when a route is active.
 
 
 ## Development server
